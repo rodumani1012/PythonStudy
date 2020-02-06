@@ -28,7 +28,7 @@ print(d)
 ex="""Weather you're new to
 programming or an experienced
 developer, it's easy to learn and use
-Phthon."""
+Python."""
 print(ex)
 
 ex2='''Python Insider by the Python

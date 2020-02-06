@@ -30,3 +30,4 @@ g=0xff
 print(e)
 print(f)
 print(g)
+print(type(e), type(f), type(g))
