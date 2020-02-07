@@ -1,4 +1,4 @@
-# Lanbda(람다)
+# Lambda(람다)
 
 # var hap = function(a,b) { return a+b} 와 같은 식
 hap = lambda a, b : a + b       # lambda 파라미터 : 실행할 내용
