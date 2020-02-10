@@ -1,3 +1,16 @@
+'''
+for 변수 in 자료형(순서):
+    명령문1
+else:
+    명령문2
+
+※ 명령문 2는 반복이 완료된 후 수행된다.
+
+range(start, stop, step)
+start부터 stop전까지 step만큼 건너뛰며 sequence 생성
+'''
+
+
 subject = ['java', 'db', 'ui', 'web', 'spring', 'python']
 
 # for i in subject:

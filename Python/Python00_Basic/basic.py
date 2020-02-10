@@ -1,3 +1,5 @@
+# cmd에서 'python -m pip install --upgrade pip' 를 통해 pip 버전을 업그레이드 할 수 있다.
+
 # 주석
 # 변수 = 값
 a=10
