@@ -26,3 +26,7 @@ print('key one :',dict02.get('one'))
 print('dict01 keys :',dict01.keys())
 print('dict02 values :',dict02.values())
 print('리스트안에 dict값 출력 :',list(dict02.values())[2])
+
+# items() 내장 함수 활용하기.
+for name, value in dict01.items():
+    print('%s : %s' % (name, value))
