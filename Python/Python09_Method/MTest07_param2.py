@@ -28,8 +28,10 @@ def test(a,b,c):
     print(a, b, c)
 
 p = ['a', 'b', 'c']
+test(p)
 test(*p)
 
 p2 = {'c' : '1', 'a' : '2', 'b' : '3'}
+test(p2)
 test(**p2)
 
